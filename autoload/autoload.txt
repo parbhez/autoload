@@ -1,0 +1,10 @@
+json muloto javascript object er moto likhte hoy.
+javascript object amara jani je key value prayer.
+example - {
+	key : "value"
+}
+
+javascript object sate json er different hoycce -
+{
+	"key" : "value" //key & value 2ta ke ("") qute er bitore rakhte hoy. 
+}
